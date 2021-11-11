@@ -1,0 +1,44 @@
+﻿  lab2.cpp
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(52,14): error C2731: WinMain: функция не может быть перегружена
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(52): message : см. объявление "WinMain"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(69,42): error C2440: =: невозможно преобразовать "const char [18]" в "LPCWSTR"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(69,23): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(76,1): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [18]" в "LPCWSTR"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(76,1): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(84,54): error C2664: "BOOL AppendMenuW(HMENU,UINT,UINT_PTR,LPCWSTR)": невозможно преобразовать аргумент 4 из "const char [6]" в "LPCWSTR"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(84,47): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(7605,1): message : см. объявление "AppendMenuW"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(85,53): error C2664: "BOOL AppendMenuW(HMENU,UINT,UINT_PTR,LPCWSTR)": невозможно преобразовать аргумент 4 из "const char [7]" в "LPCWSTR"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(85,45): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(7605,1): message : см. объявление "AppendMenuW"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(88,70): error C2664: "BOOL AppendMenuW(HMENU,UINT,UINT_PTR,LPCWSTR)": невозможно преобразовать аргумент 4 из "const char [5]" в "LPCWSTR"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(88,64): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(7605,1): message : см. объявление "AppendMenuW"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(89,80): error C2664: "BOOL AppendMenuW(HMENU,UINT,UINT_PTR,LPCWSTR)": невозможно преобразовать аргумент 4 из "const char [10]" в "LPCWSTR"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(89,69): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(7605,1): message : см. объявление "AppendMenuW"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(90,78): error C2664: "BOOL AppendMenuW(HMENU,UINT,UINT_PTR,LPCWSTR)": невозможно преобразовать аргумент 4 из "const char [9]" в "LPCWSTR"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(90,68): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(7605,1): message : см. объявление "AppendMenuW"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(324,20): error C2664: "int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)": невозможно преобразовать аргумент 2 из "const _Elem *" в "LPCWSTR"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(324,53): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8175,1): message : см. объявление "DrawTextW"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(346,2): error C2664: "int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)": невозможно преобразовать аргумент 2 из "const _Elem *" в "LPCWSTR"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(346,47): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8175,1): message : см. объявление "DrawTextW"
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(365,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(365,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(373,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(373,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(373,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(373,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\ОСиСП\лаб2\lab2\lab2.cpp(386,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных

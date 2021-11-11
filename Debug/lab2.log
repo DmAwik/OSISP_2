@@ -1,0 +1,6 @@
+﻿  lab2.cpp
+C:\Users\Йа\Desktop\лаб2\lab2\lab2.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Йа\Desktop\лаб2\lab2\lab2.cpp(214,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Йа\Desktop\лаб2\lab2\lab2.cpp(227,29): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Йа\Desktop\лаб2\lab2\lab2.cpp(273,25): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  lab2.vcxproj -> C:\Users\Йа\Desktop\лаб2\lab2\Debug\lab2.exe
